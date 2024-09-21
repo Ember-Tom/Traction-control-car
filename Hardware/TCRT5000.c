@@ -11,9 +11,9 @@
 
 uint16_t TC_L1,TC_L2,TC_M0,TC_R2,TC_R1;
 
-uint16_t flag_A=0;				  //循迹功能开启标志位
-uint16_t flag_5=0;				  //停车点1标志位
-uint16_t flag_10=0;				  //停车点2标志位
+uint16_t flag_A=0;			  //循迹功能开启标志位
+uint16_t flag_5=0;			  //停车点1标志位
+uint16_t flag_10=0;			  //停车点2标志位
 uint16_t flag_2_Park=0;			  //停车点2标记位
 uint16_t flag_End=0;			  //终点停车标志位
 uint16_t flag_End_Park=0;		  //终点停车标记位
